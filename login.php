@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/css/popup_style.css">
 <style>
-  .footer1 {
+  .projectter1 {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -154,19 +154,8 @@ if ($_POST) {
 <script src="./assets/js/lib/sticky-kit-master/dist/sticky-kit.min.js"></script>
 
 <script src="./assets/js/custom.min.js"></script>
-<footer class="bg-primary text-white text-center text-lg-start fixed-bottom">
-  <!-- Grid container -->
 
-  <!-- Grid container -->
-
-  <!-- Copyright -->
-  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-    Para más desarrollos accede a
-    <a class="text-white" href="https://www.configuroweb.com/">ConfiguroWeb</a>
-  </div>
-  <!-- Copyright -->
-</footer>
 </div>
 </body>
 
-</html>
+</html
